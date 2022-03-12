@@ -71,3 +71,14 @@ input.empty {
   display: flex;
   justify-content:space-between
 }
+
+.rightpanel {
+  background-color: white;
+  border: none;
+  position: sticky;
+  top: 60px;
+}
+
+.offers span.postuserfont:last-child {
+  float: right;
+}
