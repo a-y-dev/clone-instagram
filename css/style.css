@@ -55,3 +55,19 @@ input.empty {
   max-height: 200px;
 }
 
+.postuserfont+.mt-2{
+  float: right;
+}
+
+.card ul{
+  border: none !important;
+}
+
+.card-header, .card-footer {
+  background-color: white;
+}
+
+.left-side .card-footer {
+  display: flex;
+  justify-content:space-between
+}
